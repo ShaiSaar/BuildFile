@@ -1,0 +1,12 @@
+{
+  "name": "TwofilesJS",
+  "version": "0.0.1",
+  "dependencies": {
+    "shelljs": "^0.8.1",
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "install": "npm install typescript shelljs",
+    "start": "node build.js"
+  }
+}
